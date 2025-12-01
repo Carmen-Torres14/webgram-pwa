@@ -1,0 +1,20 @@
+{
+  "name": "WEBGRAM-PWA",
+  "short_name": "TelegramPWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0088cc",
+  "icons": [
+    {
+      "src": "/icons/telegram.png",
+      "sizes": "840x859",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/telegram-icono.png",
+      "sizes": "3600x3600",
+      "type": "image/png"
+    }
+  ]
+}
